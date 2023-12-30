@@ -1,153 +1,453 @@
 {
-  "title": "Learn to code online - CodeWithHarry",
+  "title": "GitHub: Let\u2019s build from here \u00b7 GitHub",
   "links": [
     {
-      "text": "Home",
+      "text": "Skip to content",
+      "url": "#start-of-content"
+    },
+    {
+      "text": "\n\n\n\n",
+      "url": "https://github.com/"
+    },
+    {
+      "text": "\n          Sign in\n        ",
+      "url": "/login"
+    },
+    {
+      "text": "\n\n\n\n\nActions\n        Automate any workflow\n      \n",
+      "url": "/features/actions"
+    },
+    {
+      "text": "\n\n\n\n\nPackages\n        Host and manage packages\n      \n",
+      "url": "/features/packages"
+    },
+    {
+      "text": "\n\n\n\n\nSecurity\n        Find and fix vulnerabilities\n      \n",
+      "url": "/features/security"
+    },
+    {
+      "text": "\n\n\n\n\nCodespaces\n        Instant dev environments\n      \n",
+      "url": "/features/codespaces"
+    },
+    {
+      "text": "\n\n\n\n\nCopilot\n        Write better code with AI\n      \n",
+      "url": "/features/copilot"
+    },
+    {
+      "text": "\n\n\n\n\nCode review\n        Manage code changes\n      \n",
+      "url": "/features/code-review"
+    },
+    {
+      "text": "\n\n\n\n\nIssues\n        Plan and track work\n      \n",
+      "url": "/features/issues"
+    },
+    {
+      "text": "\n\n\n\n\nDiscussions\n        Collaborate outside of code\n      \n",
+      "url": "/features/discussions"
+    },
+    {
+      "text": "\n      All features\n\n    \n",
+      "url": "/features"
+    },
+    {
+      "text": "\n      Documentation\n\n    \n\n\n",
+      "url": "https://docs.github.com"
+    },
+    {
+      "text": "\n      GitHub Skills\n\n    \n\n\n",
+      "url": "https://skills.github.com/"
+    },
+    {
+      "text": "\n      Blog\n\n    \n\n\n",
+      "url": "https://github.blog"
+    },
+    {
+      "text": "\n      Enterprise\n\n    \n",
+      "url": "/enterprise"
+    },
+    {
+      "text": "\n      Teams\n\n    \n",
+      "url": "/team"
+    },
+    {
+      "text": "\n      Startups\n\n    \n",
+      "url": "/enterprise/startups"
+    },
+    {
+      "text": "\n      Education\n\n    \n\n\n",
+      "url": "https://education.github.com"
+    },
+    {
+      "text": "\n      CI/CD & Automation\n\n    \n",
+      "url": "/solutions/ci-cd/"
+    },
+    {
+      "text": "\n      DevOps\n\n    \n\n\n",
+      "url": "https://resources.github.com/devops/"
+    },
+    {
+      "text": "\n      DevSecOps\n\n    \n\n\n",
+      "url": "https://resources.github.com/devops/fundamentals/devsecops/"
+    },
+    {
+      "text": "\n      Learning Pathways\n\n    \n\n\n",
+      "url": "https://resources.github.com/learn/pathways/"
+    },
+    {
+      "text": "\n      White papers, Ebooks, Webinars\n\n    \n\n\n",
+      "url": "https://resources.github.com/"
+    },
+    {
+      "text": "\n      Customer Stories\n\n    \n",
+      "url": "/customer-stories"
+    },
+    {
+      "text": "\n      Partners\n\n    \n\n\n",
+      "url": "https://partner.github.com/"
+    },
+    {
+      "text": "\n\nGitHub Sponsors\n        Fund open source developers\n      \n",
+      "url": "/sponsors"
+    },
+    {
+      "text": "\n\nThe ReadME Project\n        GitHub community articles\n      \n",
+      "url": "/readme"
+    },
+    {
+      "text": "\n      Topics\n\n    \n",
+      "url": "/topics"
+    },
+    {
+      "text": "\n      Trending\n\n    \n",
+      "url": "/trending"
+    },
+    {
+      "text": "\n      Collections\n\n    \n",
+      "url": "/collections"
+    },
+    {
+      "text": "Pricing",
+      "url": "/pricing"
+    },
+    {
+      "text": "\n              Search syntax tips\n",
+      "url": "https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax"
+    },
+    {
+      "text": "documentation",
+      "url": "https://docs.github.com/en/search-github/github-code-search/understanding-github-code-search-syntax"
+    },
+    {
+      "text": "\n              Sign in\n            ",
+      "url": "/login"
+    },
+    {
+      "text": "\n              Sign up\n            ",
+      "url": "/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home"
+    },
+    {
+      "text": "Reload",
+      "url": ""
+    },
+    {
+      "text": "Reload",
+      "url": ""
+    },
+    {
+      "text": "Reload",
+      "url": ""
+    },
+    {
+      "text": "\n  Start a free enterprise trial\n  \n  \n",
+      "url": "/organizations/enterprise_plan?ref_cta=Start+a+free+enterprise+trial&ref_loc=Home+campaign+hero&ref_page=%2F"
+    },
+    {
+      "text": "Productivity",
+      "url": "#productivity"
+    },
+    {
+      "text": "Collaboration",
+      "url": "#collaboration"
+    },
+    {
+      "text": "Security",
+      "url": "#security"
+    },
+    {
+      "text": "\n  Start a free enterprise trial\n  \n  \n",
+      "url": "/organizations/enterprise_plan?ref_cta=Start+a+free+enterprise+trial&ref_loc=homepage+sticky+nav&ref_page=%2F"
+    },
+    {
+      "text": "\n  Sign up for GitHub\n  \n  \n",
+      "url": "/join?ref_cta=Sign+up+for+GitHub&ref_loc=homepage+sticky+nav&ref_page=%2F&source=homepage-sticky-nav"
+    },
+    {
+      "text": "\n    Explore GitHub Copilot \n",
+      "url": "/features/copilot"
+    },
+    {
+      "text": "\n    Read the report \n",
+      "url": "https://resources.github.com/forrester/"
+    },
+    {
+      "text": "\n    Discover GitHub Actions \n",
+      "url": "/features/actions"
+    },
+    {
+      "text": "\n    Check out GitHub Codespaces \n",
+      "url": "/features/codespaces"
+    },
+    {
+      "text": "\n    Download GitHub Mobile \n",
+      "url": "/mobile"
+    },
+    {
+      "text": "\n    Dive into GitHub Advanced Security \n",
+      "url": "/features/security"
+    },
+    {
+      "text": "\n    Download the latest SAST ebook \n",
+      "url": "https://resources.github.com/security/sast/"
+    },
+    {
+      "text": "\n    Explore Dependabot \n",
+      "url": "/features/security/software-supply-chain"
+    },
+    {
+      "text": "\n    Read about secret scanning \n",
+      "url": "/features/security/code"
+    },
+    {
+      "text": "\n    Get started with GitHub Issues \n",
+      "url": "/features/issues"
+    },
+    {
+      "text": "\n    Jump into GitHub Discussions \n",
+      "url": "/features/discussions"
+    },
+    {
+      "text": "\n    Check out pull requests \n",
+      "url": "/features/code-review"
+    },
+    {
+      "text": "\n    Invest with GitHub Sponsors \n",
+      "url": "/sponsors"
+    },
+    {
+      "text": "\n\nHomebrew\n \n\n\n\n\n\nSponsor\n\n\n",
+      "url": "/homebrew"
+    },
+    {
+      "text": "\n\nEvan You\n \n\n\n\n\n\nSponsor\n\n\n",
+      "url": "/yyx990803"
+    },
+    {
+      "text": "\n\nNick DeJesus\n \n\n\n\n\n\nSponsor\n\n\n",
+      "url": "/dayhaysoos"
+    },
+    {
+      "text": "\n\nDirectus\n \n\n\n\n\n\nSponsor\n\n\n",
+      "url": "/directus"
+    },
+    {
+      "text": "\n\nESLint\n \n\n\n\n\n\nSponsor\n\n\n",
+      "url": "/eslint"
+    },
+    {
+      "text": "\n\nCommandPost\n \n\n\n\n\n\nSponsor\n\n\n",
+      "url": "/commandpost"
+    },
+    {
+      "text": "\n\nsindresorhus\n \n\n\n\n\n\nSponsor\n\n\n",
+      "url": "/sindresorhus"
+    },
+    {
+      "text": "\n\nSamuel\n \n\n\n\n\n\nSponsor\n\n\n",
+      "url": "/imolorhe"
+    },
+    {
+      "text": "\n\nchaynHQ\n \n\n\n\n\n\nSponsor\n\n\n",
+      "url": "/chaynhq"
+    },
+    {
+      "text": "\n  Start a free enterprise trial\n  \n  \n",
+      "url": "/organizations/enterprise_plan?ref_cta=Start+a+free+enterprise+trial&ref_loc=Home+campaign+footer&ref_page=%2F"
+    },
+    {
+      "text": "Read the blog post",
+      "url": "https://github.blog/2023-01-25-100-million-developers-and-counting/"
+    },
+    {
+      "text": "\n\n\n\n",
       "url": "/"
     },
     {
-      "text": "Courses",
-      "url": "/videos/"
+      "text": "\n  Subscribe\n  \n  \n",
+      "url": "https://resources.github.com/newsletter/"
     },
     {
-      "text": "Tutorial",
-      "url": "/tutorials/"
+      "text": "Features",
+      "url": "/features"
     },
     {
-      "text": "Blog",
-      "url": "/blog/"
+      "text": "Enterprise",
+      "url": "/enterprise"
     },
     {
-      "text": "Notes",
-      "url": "/notes/"
+      "text": "Copilot",
+      "url": "/features/copilot"
     },
     {
-      "text": "Contact",
-      "url": "/contact/"
+      "text": "Security",
+      "url": "/security"
     },
     {
-      "text": "My Gear",
-      "url": "/my-gear/"
+      "text": "Pricing",
+      "url": "/pricing"
     },
     {
-      "text": "Work With Us",
-      "url": "/work/"
+      "text": "Team",
+      "url": "/team"
     },
     {
-      "text": "HTML",
-      "url": "/tutorial/html-home/"
+      "text": "Resources",
+      "url": "https://resources.github.com"
     },
     {
-      "text": "CSS",
-      "url": "/tutorial/css-home/"
+      "text": "Roadmap",
+      "url": "https://github.com/github/roadmap"
     },
     {
-      "text": "JS",
-      "url": "/tutorial/js/"
+      "text": "Compare GitHub",
+      "url": "https://resources.github.com/devops/tools/compare/"
     },
     {
-      "text": "C",
-      "url": "/tutorial/c/"
+      "text": "Developer API",
+      "url": "https://docs.github.com/get-started/exploring-integrations/about-building-integrations"
     },
     {
-      "text": "C++",
-      "url": "/tutorial/cplusplus/"
+      "text": "Partners",
+      "url": "https://partner.github.com"
     },
     {
-      "text": "JAVA",
-      "url": "/tutorial/java/"
+      "text": "Electron",
+      "url": "https://www.electronjs.org"
     },
     {
-      "text": "PYTHON",
-      "url": "/tutorial/python/"
+      "text": "GitHub Desktop",
+      "url": "https://desktop.github.com/"
     },
     {
-      "text": "PHP",
-      "url": "/tutorial/php/"
+      "text": "Docs",
+      "url": "https://docs.github.com"
     },
     {
-      "text": "REACT JS",
-      "url": "/tutorial/react-home/"
+      "text": "Community Forum",
+      "url": "https://github.community"
     },
     {
-      "text": "Home",
-      "url": "/"
+      "text": "Professional Services",
+      "url": "https://services.github.com/"
     },
     {
-      "text": "Courses",
-      "url": "/videos/"
+      "text": "Premium Support",
+      "url": "/premium-support"
     },
     {
-      "text": "HTML",
-      "url": "/tutorial/html-home/"
+      "text": "Skills",
+      "url": "https://skills.github.com/"
     },
     {
-      "text": "CSS",
-      "url": "/tutorial/css-home/"
+      "text": "Status",
+      "url": "https://www.githubstatus.com/"
     },
     {
-      "text": "JS",
-      "url": "/tutorial/js/"
+      "text": "Contact GitHub",
+      "url": "https://support.github.com?tags=dotcom-footer"
     },
     {
-      "text": "C",
-      "url": "/tutorial/c/"
+      "text": "About",
+      "url": "https://github.com/about"
     },
     {
-      "text": "C++",
-      "url": "/tutorial/cplusplus/"
-    },
-    {
-      "text": "JAVA",
-      "url": "/tutorial/java/"
-    },
-    {
-      "text": "PYTHON",
-      "url": "/tutorial/python/"
-    },
-    {
-      "text": "PHP",
-      "url": "/tutorial/php/"
-    },
-    {
-      "text": "REACT JS",
-      "url": "/tutorial/react-home/"
+      "text": "Customer stories",
+      "url": "/customer-stories?type=enterprise"
     },
     {
       "text": "Blog",
-      "url": "/blog/"
+      "url": "https://github.blog"
     },
     {
-      "text": "Notes",
-      "url": "/notes/"
+      "text": "The ReadME Project",
+      "url": "/readme"
     },
     {
-      "text": "Contact",
-      "url": "/contact/"
+      "text": "Careers",
+      "url": "/about/careers"
     },
     {
-      "text": "My Gear",
-      "url": "/my-gear/"
+      "text": "Press",
+      "url": "/about/press"
     },
     {
-      "text": "Work With Us",
-      "url": "/work/"
+      "text": "Inclusion",
+      "url": "/about/diversity"
     },
     {
-      "text": "",
-      "url": "https://www.facebook.com/codewithharry"
+      "text": "Social Impact",
+      "url": "https://socialimpact.github.com/"
     },
     {
-      "text": "",
-      "url": "https://www.twitter.com/codewithharry"
+      "text": "Shop",
+      "url": "https://shop.github.com"
     },
     {
-      "text": "",
-      "url": "https://www.instagram.com/codewithharry"
+      "text": "\n\nGitHub on X\n",
+      "url": "https://x.com/github"
     },
     {
-      "text": "",
-      "url": "https://www.github.com/codewithharry"
+      "text": "\n\nGitHub on Facebook\n",
+      "url": "https://www.facebook.com/GitHub"
+    },
+    {
+      "text": "\n\nGitHub on LinkedIn\n",
+      "url": "https://www.linkedin.com/company/github"
+    },
+    {
+      "text": "\n\nGitHub on YouTube\n",
+      "url": "https://www.youtube.com/github"
+    },
+    {
+      "text": "\n\nGitHub on Twitch\n",
+      "url": "https://www.twitch.tv/github"
+    },
+    {
+      "text": "\n\nGitHub on TikTok\n",
+      "url": "https://www.tiktok.com/@github"
+    },
+    {
+      "text": "\n\nGitHub\u2019s organization on GitHub\n",
+      "url": "https://github.com/github"
+    },
+    {
+      "text": "Terms",
+      "url": "https://docs.github.com/site-policy/github-terms/github-terms-of-service"
+    },
+    {
+      "text": "Privacy",
+      "url": "https://docs.github.com/site-policy/privacy-policies/github-privacy-statement"
+    },
+    {
+      "text": "Updated 08/2022",
+      "url": "https://github.com/github/site-policy/pull/582"
+    },
+    {
+      "text": "Sitemap",
+      "url": "/sitemap"
+    },
+    {
+      "text": "What is Git?",
+      "url": "/git-guides"
     }
   ]
 }

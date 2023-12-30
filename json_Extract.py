@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 # url for scrapping
-url = "https://www.codewithharry.com/"
+url = "https://github.com/"
 
 req = requests.get(url)
 
